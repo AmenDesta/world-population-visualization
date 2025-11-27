@@ -1,38 +1,63 @@
 World Population Visualization
-This project uses Python and Jupyter Notebook to visualize global population growth from 1950 to 2025. It’s designed to be beginner-friendly and highlights how simple data and charts can reveal powerful trends.
 
-Features
-Line chart showing population growth over time
+This project uses Python and Jupyter Notebook to visualize global population growth from 1950 to 2025. It’s designed to be beginner-friendly and shows how simple code and charts can reveal powerful trends.
 
-Bar chart comparing population across selected years
+What’s Included
 
-Quick insights and calculations
+A Jupyter Notebook file (population_analysis.ipynb)
 
-Clean, readable notebook with Markdown explanations
+Built-in dataset (no downloads required)
 
-Why This Matters
-Understanding population trends helps us think critically about global development, resource planning, and sustainability. This project demonstrates how data visualization can turn raw numbers into meaningful stories.
+Two charts: line and bar
 
-Tools Used
-Python 3
+Insights and commentary in Markdown cells
 
-Pandas
+What You’ll Learn
 
-Matplotlib
+How to use pandas to create a simple dataset
 
-Jupyter Notebook
+How to plot data using matplotlib
 
-File Overview
-population_analysis.ipynb → Main notebook with code, charts, and insights
+How to interpret population growth visually
 
-No external dataset required — data is embedded in the notebook
+How to structure a clean, readable notebook
 
-How to Run
-Clone this repository: git clone https://github.com/AmenDesta/world-population-visualization.git
+How to View the Project
 
-Open the notebook in Jupyter: jupyter notebook population_analysis.ipynb
+You can view the notebook directly on GitHub — no setup needed. Just click on population_analysis.ipynb and scroll through the code and charts.
 
-Run each cell to generate the charts and insights
+How to Run the Project Yourself
+
+Install Python If you don’t have Python installed, download it from python.org..
+
+Install Jupyter Notebook Open your terminal or command prompt and run: pip install notebook
+
+Download the Project
+
+Click the green “Code” button on GitHub
+
+Choose “Download ZIP” or clone the repo using Git
+
+Open the Notebook
+
+Navigate to the project folder in your terminal
+
+Run: jupyter notebook
+
+Click on population_analysis.ipynb when the browser opens
+
+Run the Cells
+
+Click on each cell and press Shift + Enter
+
+The charts will appear below the code
+
+Troubleshooting
+
+If you see an error like “Notebook does not appear to be JSON,” make sure you’re opening the .ipynb file in Jupyter Notebook — not a text editor.
+
+If matplotlib doesn’t work, try running: pip install matplotlib
 
 Author
-Created by Amen — aspiring data analyst and security-conscious developer. Explore more projects at her portfolio site.
+
+Created by Amen Desta — aspiring data analyst and security-conscious developer. Explore more projects at her portfolio site.
