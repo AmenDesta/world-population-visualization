@@ -58,6 +58,4 @@ If you see an error like “Notebook does not appear to be JSON,” make sure yo
 
 If matplotlib doesn’t work, try running: pip install matplotlib
 
-Author
-
-Created by Amen Desta — aspiring data analyst and security-conscious developer. Explore more projects at her portfolio site.
+About the Author: This project was developed by Amen Desta, Software Development and Security BA.
